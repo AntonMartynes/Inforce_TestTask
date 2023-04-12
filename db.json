@@ -1,0 +1,80 @@
+{
+  "Products": [
+    {
+      "name": "Apple MacBook Air 13\" M1 256GB 2020 (MGN93) Silver",
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/215770075.jpg",
+      "count": 12,
+      "size": {
+        "height": 23,
+        "width": 123
+      },
+      "weight": "12",
+      "id": 1
+    },
+    {
+      "name": "Apple MacBook Air 13.6\" M2 256GB 2022 (MLY13UA/A) Starlight",
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/269257669.jpg",
+      "count": 2,
+      "size": {
+        "height": 234,
+        "width": 123
+      },
+      "weight": "1.5kg",
+      "id": 2
+    },
+    {
+      "name": "Apple MacBook Pro 16\" M2 Pro 512GB 2023 (MNW83UA/A) Space Gray",
+      "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/308882676.jpg",
+      "count": 14,
+      "size": {
+        "height": 456,
+        "width": 124
+      },
+      "weight": "1.4kg",
+      "id": 3
+    },
+    {
+      "name": "Apple MacBook Pro 14\" M2 Max 1TB 2023 (MPHK3UA/A) Silver",
+      "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/308931343.jpg",
+      "count": 122,
+      "size": {
+        "height": 421,
+        "width": 123
+      },
+      "weight": "2.2kg",
+      "id": 4
+    }
+  ],
+  "Comments": [
+    {
+      "productId": 5,
+      "date": "1668004331859",
+      "description": "sdfsdf",
+      "id": 4
+    },
+    {
+      "productId": 5,
+      "date": "1668005094482",
+      "description": "sdasd",
+      "id": 5
+    },
+    {
+      "productId": 5,
+      "date": "1668005097458",
+      "description": "sdasdsadasd",
+      "id": 6
+    },
+    {
+      "productId": 6,
+      "date": "1668005151762",
+      "description": "addsv",
+      "id": 7
+    },
+    {
+      "productId": 3,
+      "date": "12.04.2023",
+      "description": "nice laptop",
+      "id": 8
+    }
+  ]
+}
