@@ -43,6 +43,7 @@ The project uses the following technologies:
  - HTML
  - CSS/SASS
  - JavaScript
+ - TypeScript
  - Flexbox
  - React Router
  - axios
